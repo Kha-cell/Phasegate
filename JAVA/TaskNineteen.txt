@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class TaskNineteen {
+public static void main(String[]  args)  {
+Scanner scan = new Scanner (System.in);
+System.out.println("enter your age:");   
+int age = Scan.system.in();
+if (age >= 17) {
+                    
+		System.out.println("you are a Child"){
+
+}else if (age >= 18 ){
+	             
+		System.out.println("you are a teenager")
+	
+}else if (age >= 20){
+		System.out.println("you are an  aldult")
+}
+                    } else {
+                        System.out.println("you sholud be dead by now." );
+
+    }
+  }
+}
