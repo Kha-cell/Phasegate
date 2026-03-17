@@ -1,10 +1,11 @@
-public class TaskNine {
-public static void main(String[]  args) {
+import java.util.Scanner;
 
- System.out.println(********\n* *\n* *n\ *n\ *n\*******);
-
-
+public class TaskNine{
+    public static void main(String[] args) {
+	System.out.print("*");
+	System.out.print("**");
+	System.out.print("***");
+	System.out.print("*****");
+	System.out.print("*******");
     }
-
-
 }
